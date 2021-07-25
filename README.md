@@ -24,4 +24,5 @@ The following works:
 
 - Download the latest release
 - Extract the zip file
+- Open Logseq > Three dots on the top right > Settings > Enable "Developer mode" at the bottom
 - Open Logseq > Three dots on the top right > Plugins > Load unpackaged plugin
