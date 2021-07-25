@@ -1,0 +1,24 @@
+{
+        "name": "logseq-toc",
+        "version": "0.0.1",
+        "description": "A table of contents generator",
+        "main": "dist/index.html",
+        "author": "mschmidtkorth",
+        "license": "MIT",
+        "scripts": {
+                "dev": "parcel ./index.html --public-url ./",
+                "build": "parcel build --public-url . --no-source-maps index.html"
+        },
+        "devDependencies": {
+                "@logseq/libs": "^0.0.1-alpha.26",
+                "@parcel/transformer-vue": "^2.0.0-beta.2",
+                "parcel": "^2.0.0-beta.2"
+        },
+        "dependencies": {
+                "vue": "^3.0.4"
+        },
+        "logseq": {
+                "id": "msk_toc",
+                "icon": "./logo.png"
+        }
+}
