@@ -22,7 +22,7 @@ The following works:
 
 ## Installation
 
-- Download the latest release
+- Download the [latest release](https://github.com/mschmidtkorth/logseq-msk-toc/releases/tag/0.0.1)
 - Extract the zip file
 - Open Logseq > Three dots on the top right > Settings > Enable "Developer mode" at the bottom
 - Open Logseq > Three dots on the top right > Plugins > Load unpackaged plugin
