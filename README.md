@@ -18,7 +18,7 @@ The following works:
 
 ## Demo
 
-![demo](./demo.gif)
+![Demo video](./logseq-msk-toc.gif)
 
 ## Installation
 
