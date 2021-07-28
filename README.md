@@ -1,6 +1,6 @@
 ## Logseq Table of Contents Generator
 
-This plugin lists all of the headings part of the current page and allows easy navigation.
+This plugin lists all of the headings part of the current page and allows easy navigation by jumping to a headline.
 
 Nested headings are only recognized if they are indented.
 
@@ -22,7 +22,12 @@ The following works:
 
 ## Installation
 
-- Download the [latest release](https://github.com/mschmidtkorth/logseq-msk-toc/releases/tag/0.0.1)
-- Extract the zip file
-- Open Logseq > Three dots on the top right > Settings > Enable "Developer mode" at the bottom
-- Open Logseq > Three dots on the top right > Plugins > Load unpackaged plugin
+1. Download the [latest release](https://github.com/mschmidtkorth/logseq-msk-toc/releases/tag/0.0.1)
+1. Extract the zip file
+1. Open Logseq > Three dots on the top right > Settings > Enable "Developer mode" at the bottom
+1. Open Logseq > Three dots on the top right > Plugins > Load unpackaged plugin > Select the folder you extracted to
+
+## Usage
+
+- Put your cursor into any line and type `/toc` then hit `Return`
+- Click anywhere to close the modal popup
